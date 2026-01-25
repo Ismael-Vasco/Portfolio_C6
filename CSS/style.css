@@ -1,13 +1,16 @@
 .gradinte-good {
-    /* background: linear-gradient(90deg,
-            #ffa05b 0%,
-            rgba(255, 160, 91, 0) 23.5%,
-            rgba(136, 136, 255, 0) 30%);
-    min-height: 100vh; */
     background-image:
         radial-gradient(rgba(0, 0, 0, 0.06) 1px, transparent 1px),
         linear-gradient(90deg,
             #ffb37b 0%,
             #f3b6b6 45%,
             #b7b9ff 100%)
+}
+
+.bi {
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.bi:hover {
+  transform: scale(1.2);
 }
