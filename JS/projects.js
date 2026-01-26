@@ -176,41 +176,17 @@ const portfolioSections = [
       },
       {
         name: "MOODLE WEEK 4",
-        image: "../assets/img/moodle/m3_js/js-week3.png",
+        image: "../assets/img/moodle/m3_js/js-week4.png",
         description: "add",
-        tech: ["html5", "css3", "js", "bootstrap", "github"],
+        tech: ["html5", "css3", "bootstrap","js","github"],
         links: [
           {
             text: "README",
-            url: "add"
+            url: "https://github.com/Ismael-Vasco/m3_moodle_js_week_4/blob/main/README.md"
           },
           {
             text: "Repository",
-            url: "add"
-          },
-          {
-            text: "Live Demo",
-            url: "add"
-          }
-        ]
-      },
-      {
-        name: "MOODLE WEEK 5",
-        image: "../assets/img/moodle/m3_js/js-week3.png",
-        description: "add",
-        tech: ["html5", "css3", "js", "bootstrap", "github"],
-        links: [
-          {
-            text: "README",
-            url: "add"
-          },
-          {
-            text: "Repository",
-            url: "add"
-          },
-          {
-            text: "Live Demo",
-            url: "add"
+            url: "https://github.com/Ismael-Vasco/m3_moodle_js_week_4"
           }
         ]
       }
