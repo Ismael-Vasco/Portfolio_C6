@@ -177,7 +177,7 @@ const portfolioSections = [
       {
         name: "MOODLE WEEK 4",
         image: "../assets/img/moodle/m3_js/js-week4.png",
-        description: "add",
+        description: "Development of a comprehensive mini web application with persistence and API consumption",
         tech: ["html5", "css3", "bootstrap","js","github"],
         links: [
           {
