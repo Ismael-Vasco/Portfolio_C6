@@ -733,7 +733,7 @@ const portfolioSections = [
       },
       {
         name: "ALKOSTO",
-        image: "../assets/img/tasks/m2_html_css/login.png",
+        image: "../assets/img/tasks/m2_html_css/alkosto.png",
         description: "WEB PAGE BUILT WITH HTML & CSS",
         tech: ["html5", "css3", "github"],
         links: [
