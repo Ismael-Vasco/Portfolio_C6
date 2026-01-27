@@ -423,6 +423,22 @@ const portfolioSections = [
             url: "https://ismael-vasco.github.io/m2_html_css_week_1_login/login.html"
           }
         ]
+      },
+      {
+        name: "ALKOSTO",
+        image: "../assets/img/tasks/m2_html_css/alkosto.png",
+        description: "WEB PAGE BUILT WITH HTML & CSS",
+        tech: ["html5", "css3", "github"],
+        links: [
+          {
+            text: "Live Demo",
+            url: "https://ismael-vasco.github.io/m2_html_css_alkosto/"
+          },
+          {
+            text: "Repository",
+            url: "https://github.com/Ismael-Vasco/m2_html_css_alkosto"
+          }
+        ]
       }
     ]
   },
