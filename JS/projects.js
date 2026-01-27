@@ -178,7 +178,7 @@ const portfolioSections = [
         name: "MOODLE WEEK 4",
         image: "../assets/img/moodle/m3_js/js-week4.png",
         description: "Development of a comprehensive mini web application with persistence and API consumption",
-        tech: ["html5", "css3", "bootstrap","js","github"],
+        tech: ["html5", "css3", "bootstrap", "js", "github"],
         links: [
           {
             text: "README",
@@ -724,6 +724,26 @@ const portfolioSections = [
           {
             text: "Live Demo",
             url: "https://ismael-vasco.github.io/m2_html_css_week_1_login/login.html"
+          },
+          {
+            text: "Repository",
+            url: "https://github.com/Ismael-Vasco/m2_html_css_week_1_login"
+          }
+        ]
+      },
+      {
+        name: "ALKOSTO",
+        image: "../assets/img/tasks/m2_html_css/login.png",
+        description: "WEB PAGE BUILT WITH HTML & CSS",
+        tech: ["html5", "css3", "github"],
+        links: [
+          {
+            text: "Live Demo",
+            url: "https://ismael-vasco.github.io/m2_html_css_alkosto/"
+          },
+          {
+            text: "Repository",
+            url: "https://github.com/Ismael-Vasco/m2_html_css_alkosto"
           }
         ]
       }
@@ -743,7 +763,7 @@ const portfolioSections = [
         links: [
           {
             text: "Live Demo",
-            url: "https://ismael-vasco.github.io/M3_week_1_JS/" 
+            url: "https://ismael-vasco.github.io/M3_week_1_JS/"
           }
         ]
       },
@@ -756,7 +776,7 @@ const portfolioSections = [
         links: [
           {
             text: "Live Demo",
-            url: "https://ismael-vasco.github.io/M3_week_1_JS/" 
+            url: "https://ismael-vasco.github.io/M3_week_1_JS/"
           }
         ]
       },
