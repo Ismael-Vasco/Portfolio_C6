@@ -456,7 +456,7 @@ const portfolioSections = [
         links: [
           {
             text: "Live Demo",
-            url: "https://ismael-vasco.github.io/M3_week_1_JS/" 
+            url: "https://ismael-vasco.github.io/M3_week_1_JS/"
           }
         ]
       },
@@ -469,7 +469,7 @@ const portfolioSections = [
         links: [
           {
             text: "Live Demo",
-            url: "https://ismael-vasco.github.io/M3_week_1_JS/" 
+            url: "https://ismael-vasco.github.io/M3_week_1_JS/"
           }
         ]
       },
@@ -482,6 +482,34 @@ const portfolioSections = [
           {
             text: "Live Demo",
             url: "https://ismael-vasco.github.io/M3_JS_week_1_user_manager/"
+          }
+        ]
+      },
+      {
+        name: "Final test simulation",
+        image: "../assets/img/tasks/m3_js/simulation_test.png",
+        description: "APP BUILT HTML CSS & JAVASCRIPT",
+        tech: ["html5", "css3", "bootstrap", "github"],
+        links: [
+          {
+            text: "Repository",
+            url: "https://github.com/Ismael-Vasco/m3_js_simulacro"
+          }
+        ]
+      },
+      {
+        name: "Working Group MatchFlow",
+        image: "../assets/img/tasks/m3_js/matchflow.png",
+        description: "APP BUILT HTML CSS & JAVASCRIPT",
+        tech: ["html5", "css3", "bootstrap", "github"],
+        links: [
+          {
+            text: "Repository",
+            url: "https://github.com/MIX-MC-TU/MatchFlow/tree/Develop"
+          },
+          {
+            text: "README",
+            url: "https://github.com/MIX-MC-TU/MatchFlow/blob/Develop/README.md"
           }
         ]
       },
