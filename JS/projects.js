@@ -192,7 +192,63 @@ const portfolioSections = [
       }
     ]
   },
+  
   // month 4
+  {
+    title: "MOODLE MONTH 4 - DATABASES",
+    id: "databasesMonth4",
+    items: [
+      {
+        name: "MOODLE WEEK 1",
+        image: "",
+        description: ".",
+        tech: [""],
+        links: [
+          {
+            text: "README",
+            url: ""
+          }
+        ]
+      },
+      {
+        name: "MOODLE WEEK 2",
+        image: "",
+        description: ".",
+        tech: [""],
+        links: [
+          {
+            text: "README",
+            url: ""
+          }
+        ]
+      },
+      {
+        name: "MOODLE WEEK 3",
+        image: "",
+        description: ".",
+        tech: [""],
+        links: [
+          {
+            text: "README",
+            url: ""
+          }
+        ]
+      },
+      {
+        name: "MOODLE WEEK 4",
+        image: "",
+        description: ".",
+        tech: [""],
+        links: [
+          {
+            text: "README",
+            url: ""
+          }
+        ]
+      },
+    ]
+
+  },
   // month 5
   // month 6
   // month 7
@@ -820,6 +876,31 @@ const portfolioSections = [
           }
         ]
       },
+    ]
+  },
+
+  // month 4
+  {
+    title: "MOODLE MONTH 4 - DATABASES",
+    id: "databasesMonth4",
+    items: [
+      {
+        name: "MOODLE WEEK 1",
+        image: "",
+        description: ".",
+        tech: [""],
+        links: [
+          {
+            text: "README",
+            url: ""
+          },
+          {
+            text: "LIVE",
+            url: ""
+          }
+        ]
+      },
+
     ]
   },
 ];
