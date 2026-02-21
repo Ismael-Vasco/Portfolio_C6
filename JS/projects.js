@@ -199,55 +199,18 @@ const portfolioSections = [
     id: "databasesMonth4",
     items: [
       {
-        name: "MOODLE WEEK 1",
-        image: "",
+        name: "MOODLE WEEKS",
+        image: "../assets/img/moodle/m4_db/docusaurus.svg",
         description: ".",
-        tech: [""],
+        tech: ["js", "json", "sql", "github"],
         links: [
           {
-            text: "README",
-            url: ""
+            text: "DOCASAURUS",
+            url: "https://project-firebase-a36d6.web.app"
           }
         ]
-      },
-      {
-        name: "MOODLE WEEK 2",
-        image: "",
-        description: ".",
-        tech: [""],
-        links: [
-          {
-            text: "README",
-            url: ""
-          }
+      }
         ]
-      },
-      {
-        name: "MOODLE WEEK 3",
-        image: "",
-        description: ".",
-        tech: [""],
-        links: [
-          {
-            text: "README",
-            url: ""
-          }
-        ]
-      },
-      {
-        name: "MOODLE WEEK 4",
-        image: "",
-        description: ".",
-        tech: [""],
-        links: [
-          {
-            text: "README",
-            url: ""
-          }
-        ]
-      },
-    ]
-
   },
   // month 5
   // month 6
@@ -912,7 +875,8 @@ const techIcons = {
   js: "bi-filetype-js",
   bootstrap: "bi-bootstrap",
   github: "bi-github",
-  json: "bi-filetype-json"
+  json: "bi-filetype-json",
+  sql: "bi-filetype-sql"
 };
 
 const container = document.getElementById("portfolioContent");
