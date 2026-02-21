@@ -193,6 +193,24 @@ const portfolioSections = [
     ]
   },
   // month 4
+  {
+    title: "MOODLE MONTH 4 - DATABASES",
+    id: "databasesMonth4",
+    items: [
+      {
+        name: "MOODLE WEEKS",
+        image: "../assets/img/moodle/m4_db/docusaurus.svg",
+        description: "SQL queries in a doc platform",
+        tech: ["js", "json", "sql", "github"],
+        links: [
+          {
+            text: "DOCASAURUS",
+            url: "https://project-firebase-a36d6.web.app/docs/moodle/week_1/"
+          }
+        ]
+      }
+        ]
+  },
   // month 5
   // month 6
   // month 7
