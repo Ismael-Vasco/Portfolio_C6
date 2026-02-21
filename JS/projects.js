@@ -201,12 +201,12 @@ const portfolioSections = [
       {
         name: "MOODLE WEEKS",
         image: "../assets/img/moodle/m4_db/docusaurus.svg",
-        description: ".",
+        description: "SQL queries in a doc platform",
         tech: ["js", "json", "sql", "github"],
         links: [
           {
             text: "DOCASAURUS",
-            url: "https://project-firebase-a36d6.web.app"
+            url: "https://project-firebase-a36d6.web.app/docs/moodle/week_1/"
           }
         ]
       }
@@ -844,27 +844,22 @@ const portfolioSections = [
 
   // month 4
   {
-    title: "MOODLE MONTH 4 - DATABASES",
+    title: "MONTH 4 - DATABASES",
     id: "databasesMonth4",
     items: [
       {
-        name: "MOODLE WEEK 1",
-        image: "",
-        description: ".",
-        tech: [""],
+        name: "MOODLE WEEKS",
+        image: "../assets/img/tasks/m4_db/docusaurus.svg",
+        description: "SQL queries exercises solved",
+        tech: ["js", "json", "sql", "github"],
         links: [
           {
-            text: "README",
-            url: ""
-          },
-          {
-            text: "LIVE",
-            url: ""
+            text: "DOCASAURUS",
+            url: "https://project-firebase-a36d6.web.app/docs/mysql_exercises/ejecicio_join"
           }
         ]
-      },
-
-    ]
+      }
+        ]
   },
 ];
 
