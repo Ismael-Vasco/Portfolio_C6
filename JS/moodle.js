@@ -224,7 +224,8 @@ const techIcons = {
   js: "bi-filetype-js",
   bootstrap: "bi-bootstrap",
   github: "bi-github",
-  json: "bi-filetype-json"
+  json: "bi-filetype-json",
+  sql: "bi-filetype-sql"
 };
 
 const container = document.getElementById("portfolioContent");
