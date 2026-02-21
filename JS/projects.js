@@ -848,7 +848,7 @@ const portfolioSections = [
     id: "databasesMonth4",
     items: [
       {
-        name: "MOODLE WEEKS",
+        name: "SQL ACTIVITIES",
         image: "../assets/img/tasks/m4_db/docusaurus.svg",
         description: "SQL queries exercises solved",
         tech: ["js", "json", "sql", "github"],
@@ -858,8 +858,8 @@ const portfolioSections = [
             url: "https://project-firebase-a36d6.web.app/docs/mysql_exercises/ejecicio_join"
           }
         ]
-      }
-        ]
+      },
+    ]
   },
 ];
 
