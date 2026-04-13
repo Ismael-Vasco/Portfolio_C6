@@ -11,7 +11,19 @@ const portfolioSections = [
         links: [
           {
             text: "Repository",
-            url: "https://github.com/keplerC-sharp/NeoGenesis/tree/Develop"
+            url: "https://github.com/keplerC-sharp/NeoGenesis"
+          }
+        ]
+      },
+      {
+        name: "Transportation Operations Management System",
+        image: "../assets/img/c-sharp/vehicle.jpeg",
+        description: "A C# development project with advanced gameplay and engine features from NeoGenesis.",
+        tech: ["csharp", "sql", "github"],
+        links: [
+          {
+            text: "Repository",
+            url: "https://github.com/Projects-C-Sharp/Trans_Operations_Management_System"
           }
         ]
       }
