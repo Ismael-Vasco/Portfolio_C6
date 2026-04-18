@@ -18,12 +18,60 @@ const portfolioSections = [
       {
         name: "Transportation Operations Management System",
         image: "../assets/img/c-sharp/vehicle.jpeg",
-        description: "A C# development project with advanced gameplay and engine features from NeoGenesis.",
+        description: "A comprehensive system for managing transportation operations, built with C# and SQL database integration.",
         tech: ["csharp", "sql", "github"],
         links: [
           {
             text: "Repository",
             url: "https://github.com/Projects-C-Sharp/Trans_Operations_Management_System"
+          }
+        ]
+      },
+      {
+        name: "AstroNova",
+        image: "../assets/img/c-sharp/astronova.avif",
+        description: "A space-themed C# project featuring advanced astronomical simulation and game mechanics.",
+        tech: ["csharp", "github"],
+        links: [
+          {
+            text: "Repository",
+            url: "https://github.com/Projects-C-Sharp/AstroNova"
+          }
+        ]
+      },
+      {
+        name: "TEMSystem",
+        image: "../assets/img/c-sharp/TEM.jpg",
+        description: "A Teaching and Educational Management System built with C#, featuring user management and course organization.",
+        tech: ["csharp", "sql", "github"],
+        links: [
+          {
+            text: "Repository",
+            url: "https://github.com/Projects-C-Sharp/TEMSystem"
+          }
+        ]
+      },
+      {
+        name: "MVCProject_C#",
+        image: "../assets/img/c-sharp/mvc.webp",
+        description: "An MVC architecture project demonstrating clean code practices and separation of concerns in C#.",
+        tech: ["csharp", "mvc", "github"],
+        links: [
+          {
+            text: "Repository",
+            url: "https://github.com/Projects-C-Sharp/MVCProject_C-"
+          }
+        ]
+      },
+      {
+        name: "MVC-Dockerfile",
+        image: "../assets/img/c-sharp/mvc-docker.jpg",
+        description: "An MVC project integrated with Docker for containerized deployment and cross-platform compatibility.",
+        tech: ["csharp", "docker", "github"],
+        links: [
+          {
+            text: "Repository",
+            url: "https://github.com/Projects-C-Sharp/MVC-Dockerfile"
           }
         ]
       }
@@ -41,7 +89,9 @@ const techIcons = {
   json: "bi-filetype-json",
   sql: "bi-filetype-sql",
   csharp: "bi-code-slash",
-  django: "bi-filetype-py"
+  django: "bi-filetype-py",
+  mvc: "bi-layers",
+  docker: "bi-box"
 };
 
 const container = document.getElementById("portfolioContent");
