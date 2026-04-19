@@ -14,7 +14,19 @@ const portfolioSections = [
             url: "https://github.com/projects-Python-Django/NeoGenesis"
           }
         ]
-      }
+      },
+      {
+        name: "AstroNova",
+        image: "../assets/img/python/astronova.avif",
+        description: "A comprehensive Django-based web application for managing space missions, astronauts, engineers, spacecraft, and exploration records.",
+        tech: ["django", "python", "github"],
+        links: [
+          {
+            text: "Repository",
+            url: "https://github.com/projects-Python-Django/AstroNova"
+          }
+        ]
+      },
     ]
   }
 ];
